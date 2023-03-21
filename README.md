@@ -2,7 +2,8 @@
 Scrapper for internship
 
 The program will scrape the products and save them in a CSV file named `data-{datetime}.csv` in the directory.
-
+## Running
+run the `main.py` file.
 ## Features
 
 - Scrape products from Amazon.in with the given URL and retrieve the ASIN, name, rating, and number of ratings.
